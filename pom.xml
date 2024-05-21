@@ -11,7 +11,8 @@
         <module>03-dependece</module>
         <module>04-liskov</module>
         <module>05-ocp</module>
-        <module>singleton</module>
+        <module>06-singleton</module>
+        <module>07-factory</module>
     </modules>
 
 

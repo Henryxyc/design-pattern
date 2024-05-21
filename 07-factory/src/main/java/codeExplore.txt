@@ -1,0 +1,6 @@
+源码分析：
+Collection（抽象工厂）、Iterator（抽象工厂中的抽象商品类）
+ArrayList（具体工厂）、Itr（ArrayList内部类具体商品类）
+
+Collection -> ArrayList 实现关系
+Iterator -> Itr 实现关系
