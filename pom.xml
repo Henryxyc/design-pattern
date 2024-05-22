@@ -13,6 +13,7 @@
         <module>05-ocp</module>
         <module>06-singleton</module>
         <module>07-factory</module>
+        <module>08-prototype</module>
     </modules>
 
 
