@@ -16,6 +16,7 @@
         <module>07-factory</module>
         <module>08-prototype</module>
         <module>09-builder</module>
+        <module>10-proxy</module>
     </modules>
 
     <build>
